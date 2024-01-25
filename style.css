@@ -1,0 +1,11 @@
+button{
+width:300px;
+margin:200px;
+height:50px;
+font-size:10px;
+cursor:pointer;
+border-radius:9px;
+background-color:darkblue;
+font-size:20px;
+}
+body{background-image:url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f2444d9f-6e4c-43c4-98f2-365bfd758eef/deuob5k-6a66020b-716c-42e0-a7d5-91cc51419883.jpg/v1/fill/w_1280,h_889,q_75,strp/the_hollow_by_jettmanas_deuob5k-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODg5IiwicGF0aCI6IlwvZlwvZjI0NDRkOWYtNmU0Yy00M2M0LTk4ZjItMzY1YmZkNzU4ZWVmXC9kZXVvYjVrLTZhNjYwMjBiLTcxNmMtNDJlMC1hN2Q1LTkxY2M1MTQxOTg4My5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.EwMpBSGdhaGQVtUJuCdj96iEKzDenrNkyZpgjwOsyrY');}
